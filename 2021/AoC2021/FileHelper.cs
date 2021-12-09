@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace AoC2021.Tests;
+namespace AoC2021;
 
 public class FileHelper
 {
